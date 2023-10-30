@@ -1,13 +1,41 @@
-From, Austria, Belgium, Czech Republic, Denmark, France, Germany, Luxembourg, Netherlands, Norway, Poland, Sweden, Switzerland
-Austria ,,,2800.0,,,13000.0,,,,,,5900.0
-Belgium ,,,,,2400.0,,,2800.0,,,,
-Czech Republic ,1300.0,,,,,5500.0,,,,108.0,,
-Denmark ,,,,,,3500.0,,,1700.0,,5200.0,
-France ,,6800.0,,,,4700.0,,,,,,17200.0
-Germany ,40900.0,,2100.0,5200.0,14400.0,,4400.0,12300.0,,158.0,825.0,11500.0
-Luxembourg ,,,,,,1.0,,,,,,
-Netherlands ,,5100.0,,,,1200.0,,,281.0,,,
-Norway ,,,,6800.0,,,,4300.0,,,12000.0,
-Poland ,,,569.0,,,810.0,,,,,171.0,
-Sweden ,,,,3400.0,,1500.0,,,3200.0,2600.0,,
-Switzerland ,442.0,,,,6500.0,3600.0,,,,,,
+,From,To,Value,Year
+0,Poland , Czech Republic,569.0,2016
+1,Poland , Germany,810.0,2016
+2,Sweden , Germany,1500.0,2016
+3,Sweden , Poland,2600.0,2016
+4,Austria , Czech Republic,2800.0,2016
+5,Germany , Luxembourg,4400.0,2016
+6,Norway , Netherlands,4300.0,2016
+7,Austria , Switzerland,5900.0,2016
+8,Czech Republic , Germany,5500.0,2016
+9,Netherlands , Belgium,5100.0,2016
+10,Norway , Denmark,6800.0,2016
+11,Denmark , Sweden,5200.0,2016
+12,Germany , Denmark,5200.0,2016
+13,France , Belgium,6800.0,2016
+14,Germany , Netherlands,12300.0,2016
+15,Germany , Switzerland,11500.0,2016
+16,Norway , Sweden,12000.0,2016
+17,Germany , France,14400.0,2016
+18,France , Switzerland,17200.0,2016
+19,Germany , Austria,40900.0,2016
+0,Czech Republic , Poland,108.0,2016
+1,Germany , Poland,158.0,2016
+2,Germany , Sweden,825.0,2016
+3,Poland , Sweden,171.0,2016
+4,Czech Republic , Austria,1300.0,2016
+5,Luxembourg , Germany,1.0,2016
+6,Netherlands , Norway,281.0,2016
+7,Switzerland , Austria,442.0,2016
+8,Germany , Czech Republic,2100.0,2016
+9,Belgium , Netherlands,2800.0,2016
+10,Denmark , Norway,1700.0,2016
+11,Sweden , Denmark,3400.0,2016
+12,Denmark , Germany,3500.0,2016
+13,Belgium , France,2400.0,2016
+14,Netherlands , Germany,1200.0,2016
+15,Switzerland , Germany,3600.0,2016
+16,Sweden , Norway,3200.0,2016
+17,France , Germany,4700.0,2016
+18,Switzerland , France,6500.0,2016
+19,Austria , Germany,13000.0,2016

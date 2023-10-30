@@ -1,13 +1,41 @@
-From, Austria, Belgium, Czech Republic, Denmark, France, Germany, Luxembourg, Netherlands, Norway, Poland, Sweden, Switzerland
-Austria ,,,2700.0,,,13400.0,,,,,,5200.0
-Belgium ,,,,,1400.0,,,1400.0,,,,
-Czech Republic ,2200.0,,,,,9000.0,,,,15.0,,
-Denmark ,,,,,,5400.0,,,1600.0,,2900.0,
-France ,,17500.0,,,,3900.0,,,,,,25700.0
-Germany ,44800.0,,5400.0,2100.0,13400.0,,4200.0,16700.0,,170.0,152.0,10600.0
-Luxembourg ,,,,,,22.0,,,,,,
-Netherlands ,,6500.0,,,,565.0,,,11.0,,,
-Norway ,,,,6600.0,,,,5800.0,,,10500.0,
-Poland ,,,358.0,,,869.0,,,,,16.0,
-Sweden ,,,,7000.0,,1900.0,,,5500.0,3200.0,,
-Switzerland ,1000.0,,,,11100.0,5700.0,,,,,,
+,From,To,Value,Year
+0,Poland , Czech Republic,358.0,2015
+1,Poland , Germany,869.0,2015
+2,Sweden , Germany,1900.0,2015
+3,Sweden , Poland,3200.0,2015
+4,Germany , Luxembourg,4200.0,2015
+5,Austria , Czech Republic,2700.0,2015
+6,Norway , Netherlands,5800.0,2015
+7,Austria , Switzerland,5200.0,2015
+8,Denmark , Germany,5400.0,2015
+9,Netherlands , Belgium,6500.0,2015
+10,Norway , Denmark,6600.0,2015
+11,Sweden , Denmark,7000.0,2015
+12,Czech Republic , Germany,9000.0,2015
+13,Norway , Sweden,10500.0,2015
+14,Germany , Switzerland,10600.0,2015
+15,Germany , France,13400.0,2015
+16,Germany , Netherlands,16700.0,2015
+17,France , Belgium,17500.0,2015
+18,France , Switzerland,25700.0,2015
+19,Germany , Austria,44800.0,2015
+0,Czech Republic , Poland,15.0,2015
+1,Germany , Poland,170.0,2015
+2,Germany , Sweden,152.0,2015
+3,Poland , Sweden,16.0,2015
+4,Luxembourg , Germany,22.0,2015
+5,Czech Republic , Austria,2200.0,2015
+6,Netherlands , Norway,11.0,2015
+7,Switzerland , Austria,1000.0,2015
+8,Germany , Denmark,2100.0,2015
+9,Belgium , Netherlands,1400.0,2015
+10,Denmark , Norway,1600.0,2015
+11,Denmark , Sweden,2900.0,2015
+12,Germany , Czech Republic,5400.0,2015
+13,Sweden , Norway,5500.0,2015
+14,Switzerland , Germany,5700.0,2015
+15,France , Germany,3900.0,2015
+16,Netherlands , Germany,565.0,2015
+17,Belgium , France,1400.0,2015
+18,Switzerland , France,11100.0,2015
+19,Austria , Germany,13400.0,2015

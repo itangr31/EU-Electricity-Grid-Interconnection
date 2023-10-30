@@ -1,13 +1,41 @@
-From, Austria, Belgium, Czech Republic, Denmark, France, Germany, Luxembourg, Netherlands, Norway, Poland, Sweden, Switzerland
-Austria ,,,2800.0,,,10600.0,,,,,,5900.0
-Belgium ,,,,,3100.0,,,2500.0,,,,
-Czech Republic ,1800.0,,,,,7700.0,,,,309.0,,
-Denmark ,,,,,,6300.0,,,2400.0,,3000.0,
-France ,,5900.0,,,,3800.0,,,,,,17600.0
-Germany ,42400.0,,5100.0,3900.0,17500.0,,4500.0,10700.0,,840.0,256.0,11600.0
-Luxembourg ,,,,,,146.0,,,,,,
-Netherlands ,,6300.0,,,,1200.0,,,121.0,,,
-Norway ,,,,5300.0,,,,5200.0,,,11300.0,
-Poland ,,,824.0,,,1900.0,,,,,145.0,
-Sweden ,,,,6300.0,,2200.0,,,3100.0,3100.0,,
-Switzerland ,230.0,,,,6700.0,3100.0,,,,,,
+,From,To,Value,Year
+0,Poland , Czech Republic,824.0,2017
+1,Sweden , Germany,2200.0,2017
+2,Poland , Germany,1900.0,2017
+3,Sweden , Poland,3100.0,2017
+4,Austria , Czech Republic,2800.0,2017
+5,Germany , Luxembourg,4500.0,2017
+6,Norway , Netherlands,5200.0,2017
+7,Austria , Switzerland,5900.0,2017
+8,Norway , Denmark,5300.0,2017
+9,Netherlands , Belgium,6300.0,2017
+10,France , Belgium,5900.0,2017
+11,Sweden , Denmark,6300.0,2017
+12,Denmark , Germany,6300.0,2017
+13,Germany , Netherlands,10700.0,2017
+14,Czech Republic , Germany,7700.0,2017
+15,Norway , Sweden,11300.0,2017
+16,Germany , Switzerland,11600.0,2017
+17,Germany , France,17500.0,2017
+18,France , Switzerland,17600.0,2017
+19,Germany , Austria,42400.0,2017
+0,Czech Republic , Poland,309.0,2017
+1,Germany , Sweden,256.0,2017
+2,Germany , Poland,840.0,2017
+3,Poland , Sweden,145.0,2017
+4,Czech Republic , Austria,1800.0,2017
+5,Luxembourg , Germany,146.0,2017
+6,Netherlands , Norway,121.0,2017
+7,Switzerland , Austria,230.0,2017
+8,Denmark , Norway,2400.0,2017
+9,Belgium , Netherlands,2500.0,2017
+10,Belgium , France,3100.0,2017
+11,Denmark , Sweden,3000.0,2017
+12,Germany , Denmark,3900.0,2017
+13,Netherlands , Germany,1200.0,2017
+14,Germany , Czech Republic,5100.0,2017
+15,Sweden , Norway,3100.0,2017
+16,Switzerland , Germany,3100.0,2017
+17,France , Germany,3800.0,2017
+18,Switzerland , France,6700.0,2017
+19,Austria , Germany,10600.0,2017

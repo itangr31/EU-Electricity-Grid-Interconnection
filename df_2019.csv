@@ -1,13 +1,43 @@
-From, Austria, Belgium, Czech Republic, Denmark, France, Germany, Luxembourg, Netherlands, Norway, Poland, Sweden, Switzerland
-Austria ,,,2500.0,,,1700.0,,,,,,4300.0
-Belgium ,,,,,2400.0,,,5400.0,,,,
-Czech Republic ,3600.0,,,,,5700.0,,,,2000.0,,
-Denmark ,,,,,,6000.0,,721.0,3600.0,,4200.0,
-France ,,7500.0,,,,11500.0,,,,,,19100.0
-Germany ,21300.0,,7600.0,7900.0,14000.0,,4400.0,7700.0,,2600.0,583.0,7300.0
-Luxembourg ,,,,,,204.0,,,,,,
-Netherlands ,,3900.0,,756.0,,3700.0,,,1500.0,,,
-Norway ,,,,3500.0,,,,2500.0,,,7400.0,
-Poland ,,,120.0,,,230.0,,,,,189.0,
-Sweden ,,,,6800.0,,1300.0,,,7700.0,3100.0,,
-Switzerland ,2300.0,,,,5500.0,7900.0,,,,,,
+,From,To,Value,Year
+0,Netherlands , Denmark,756.0,2019
+1,Sweden , Germany,1300.0,2019
+2,Czech Republic , Poland,2000.0,2019
+3,Germany , Poland,2600.0,2019
+4,Sweden , Poland,3100.0,2019
+5,Norway , Netherlands,2500.0,2019
+6,Germany , Luxembourg,4400.0,2019
+7,Czech Republic , Austria,3600.0,2019
+8,Austria , Switzerland,4300.0,2019
+9,Denmark , Norway,3600.0,2019
+10,Belgium , Netherlands,5400.0,2019
+11,France , Belgium,7500.0,2019
+12,Sweden , Denmark,6800.0,2019
+13,Germany , Netherlands,7700.0,2019
+14,Germany , Czech Republic,7600.0,2019
+15,Germany , Denmark,7900.0,2019
+16,Sweden , Norway,7700.0,2019
+17,Switzerland , Germany,7900.0,2019
+18,Germany , Austria,21300.0,2019
+19,France , Switzerland,19100.0,2019
+20,Germany , France,14000.0,2019
+0,Denmark , Netherlands,721.0,2019
+1,Germany , Sweden,583.0,2019
+2,Poland , Czech Republic,120.0,2019
+3,Poland , Germany,230.0,2019
+4,Poland , Sweden,189.0,2019
+5,Netherlands , Norway,1500.0,2019
+6,Luxembourg , Germany,204.0,2019
+7,Austria , Czech Republic,2500.0,2019
+8,Switzerland , Austria,2300.0,2019
+9,Norway , Denmark,3500.0,2019
+10,Netherlands , Belgium,3900.0,2019
+11,Belgium , France,2400.0,2019
+12,Denmark , Sweden,4200.0,2019
+13,Netherlands , Germany,3700.0,2019
+14,Czech Republic , Germany,5700.0,2019
+15,Denmark , Germany,6000.0,2019
+16,Norway , Sweden,7400.0,2019
+17,Germany , Switzerland,7300.0,2019
+18,Austria , Germany,1700.0,2019
+19,Switzerland , France,5500.0,2019
+20,France , Germany,11500.0,2019

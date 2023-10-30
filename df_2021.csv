@@ -1,13 +1,47 @@
-From, Austria, Belgium, Czech Republic, Denmark, France, Germany, Luxembourg, Netherlands, Norway, Poland, Sweden, Switzerland
-Austria ,,,1900.0,,,2400.0,,,,,,4100.0
-Belgium ,,,,,8000.0,2700.0,,3900.0,,,,
-Czech Republic ,4100.0,,,,,5500.0,,,,1600.0,,
-Denmark ,,,,,,13200.0,,3500.0,1900.0,,2600.0,
-France ,,4400.0,,,,8400.0,,,,,,21200.0
-Germany ,20800.0,3500.0,5700.0,4200.0,14900.0,,4100.0,6400.0,1300.0,1900.0,281.0,8400.0
-Luxembourg ,,,,,,125.0,,,,,,
-Netherlands ,,6200.0,,1200.0,,4700.0,,,513.0,,,
-Norway ,,,,8200.0,,4500.0,,3800.0,,,9800.0,
-Poland ,,,1200.0,,,3700.0,,,,,398.0,
-Sweden ,,,,9100.0,,2300.0,,,4200.0,3700.0,,
-Switzerland ,1300.0,,,,4900.0,6200.0,,,,,,
+,From,To,Value,Year
+0,Sweden , Germany,2300.0,2021
+1,Czech Republic , Poland,1600.0,2021
+2,Sweden , Poland,3700.0,2021
+3,Germany , Luxembourg,4100.0,2021
+4,Norway , Netherlands,3800.0,2021
+5,Denmark , Netherlands,3500.0,2021
+6,Austria , Switzerland,4100.0,2021
+7,Poland , Germany,3700.0,2021
+8,Norway , Germany,4500.0,2021
+9,Czech Republic , Austria,4100.0,2021
+10,Germany , Belgium,3500.0,2021
+11,Netherlands , Belgium,6200.0,2021
+12,Norway , Denmark,8200.0,2021
+13,Germany , Netherlands,6400.0,2021
+14,Germany , Czech Republic,5700.0,2021
+15,Sweden , Denmark,9100.0,2021
+16,Belgium , France,8000.0,2021
+17,Norway , Sweden,9800.0,2021
+18,Germany , Switzerland,8400.0,2021
+19,Denmark , Germany,13200.0,2021
+20,Germany , Austria,20800.0,2021
+21,Germany , France,14900.0,2021
+22,France , Switzerland,21200.0,2021
+0,Germany , Sweden,281.0,2021
+1,Poland , Czech Republic,1200.0,2021
+2,Poland , Sweden,398.0,2021
+3,Luxembourg , Germany,125.0,2021
+4,Netherlands , Norway,513.0,2021
+5,Netherlands , Denmark,1200.0,2021
+6,Switzerland , Austria,1300.0,2021
+7,Germany , Poland,1900.0,2021
+8,Germany , Norway,1300.0,2021
+9,Austria , Czech Republic,1900.0,2021
+10,Belgium , Germany,2700.0,2021
+11,Belgium , Netherlands,3900.0,2021
+12,Denmark , Norway,1900.0,2021
+13,Netherlands , Germany,4700.0,2021
+14,Czech Republic , Germany,5500.0,2021
+15,Denmark , Sweden,2600.0,2021
+16,France , Belgium,4400.0,2021
+17,Sweden , Norway,4200.0,2021
+18,Switzerland , Germany,6200.0,2021
+19,Germany , Denmark,4200.0,2021
+20,Austria , Germany,2400.0,2021
+21,France , Germany,8400.0,2021
+22,Switzerland , France,4900.0,2021
